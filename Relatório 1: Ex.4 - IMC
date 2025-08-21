@@ -1,0 +1,5 @@
+10 INPUT "Digite sua altura (em metros): "; a
+20 INPUT "Digite seu peso (em quilogramas): "; b
+30 imc = b/(a*a)
+40 PRINT "IMC: "+imc
+50 END
